@@ -1,20 +1,8 @@
 # Restaurant Website
 ![logo](https://github.com/Ibrahim-Naseef/Brizzle-Website/assets/156147657/5c888f7b-da9b-4ff5-9a7a-73011bbe1a97)
 
-## BRIZZLE
+### BRIZZLE
 
-
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
