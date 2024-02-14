@@ -48,7 +48,7 @@ Follow these steps to get the project up and running on your local machine:
 
 - **/css:** Contains stylesheets.
 - **/js:** Contains JavaScript files.
-- **/images:** Store images for the website.
+- **/assets/images:** Store images for the website.
 - **/assets:** Additional assets such as fonts, icons, etc.
 - **index.html:** Main HTML file.
 
