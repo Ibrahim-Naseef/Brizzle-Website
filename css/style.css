@@ -331,6 +331,8 @@ h6 {
   background-position: top center;
   position: relative;
   padding: 10px;
+    background-image: url("./assets/Images/hero.jpg");
+
 }
 
 #hero:before {
